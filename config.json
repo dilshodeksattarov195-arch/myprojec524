@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcpdate",
+        "uuid": 802768,
+        "checksum": "stw6d"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
